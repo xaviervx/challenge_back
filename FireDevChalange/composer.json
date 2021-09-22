@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "FireDevChalange\\Controle\\" : "Controle/",
+            "FireDevChalange\\Modelo\\" : "Modelo/"
+        },
+        "files": [
+            "dbConfig.php"
+        ]
+    }
+}
